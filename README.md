@@ -4,7 +4,7 @@
 
 Hi – I'm Abdullah Kaleem (GitHub: abdulahkk-sys). I build full-stack applications across web and data analytics while finishing my CS degree at UIT University. I enjoy taking concepts from problem statement to working solution, with an emphasis on clean code, efficient databases, and practical AI integration.
 
-- 🔨 **Currently building:** Equipment Tracking System – a web-based inspection management tool (React + Flask + MySQL) with QR code integration and real-time data synchronization for mobile inspections.
+- 🔨 **Currently building:** POS System and a web based ordering system for a client.
 
 - 🎯 **Seeking:** Internship or freelance opportunities in full-stack development, backend engineering, or AI-driven applications where I can contribute to product features and learn professional workflows.
 
